@@ -1,5 +1,17 @@
 # 💬 Real-Time Chat Application
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: JAMPALA SHIVANI
+
+INTERN ID: CT04DF2899
+
+DOMAIN: FULL STACK WEB DEVELOPMENT
+
+BATCH DURATION: JUNE 5th,2025 to JULY 5th, 2025
+
+MENTOR NAME : NEELA SANTHOSH KUMAR
+
 This is a real-time chat application built using React.js, Node.js, Socket.IO, and Express. It enables users to join a chat room and communicate instantly with others. The project demonstrates the fundamentals of real-time communication on the web using WebSockets.
 
 

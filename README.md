@@ -1,4 +1,4 @@
-# 💬 Real-Time Chat Application(Task2)
+# 💬 Real-Time Chat Application
 
 COMPANY: CODTECH IT SOLUTIONS
 

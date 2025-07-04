@@ -50,3 +50,7 @@ realtime-chat-app/
 ├── server/         # Express backend
 │   └── index.js
 └── README.md
+# Output
+<img width="1296" height="713" alt="Image" src="https://github.com/user-attachments/assets/c205983d-615f-4c0f-90bf-d8c6a5d7c0d8" />
+<img width="1289" height="744" alt="Image" src="https://github.com/user-attachments/assets/0ae6abe1-5fac-4419-a7ad-933d54ec1842" />
+<img width="1287" height="698" alt="Image" src="https://github.com/user-attachments/assets/71c3828a-cd97-46e7-b042-21e98fef53d0" />

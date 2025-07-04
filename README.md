@@ -15,7 +15,7 @@ MENTOR NAME : NEELA SANTHOSH
 This is a real-time chat application built using React.js, Node.js, Socket.IO, and Express. It enables users to join a chat room and communicate instantly with others. The project demonstrates the fundamentals of real-time communication on the web using WebSockets.
 
 
-🚀 Features
+# 🚀 Features
 🔗 Real-time messaging with Socket.IO
 
 🧑‍🤝‍🧑 Join chat rooms using unique usernames
@@ -28,12 +28,12 @@ This is a real-time chat application built using React.js, Node.js, Socket.IO, a
 
 ⚙️ Simple and clean UI with React
 
-🧱 Tech Stack
+# 🧱 Tech Stack
 Frontend: React.js, Socket.IO-client
 Backend: Node.js, Express.js, Socket.IO
 Styling: CSS
 
-📦 Prerequisites
+# 📦 Prerequisites
 Make sure you have the following installed:
 Node.js (v14+)
 npm or yarn
@@ -51,7 +51,7 @@ npm or yarn
       npm start 
 4.open http://localhost:3000
 
-📁 Folder Structure
+# 📁 Folder Structure
 realtime-chat-app/
 ├── client/         # React frontend
 │   ├── public/
@@ -62,7 +62,9 @@ realtime-chat-app/
 ├── server/         # Express backend
 │   └── index.js
 └── README.md
+
 # Output
+
 <img width="1296" height="713" alt="Image" src="https://github.com/user-attachments/assets/c205983d-615f-4c0f-90bf-d8c6a5d7c0d8" />
 <img width="1289" height="744" alt="Image" src="https://github.com/user-attachments/assets/0ae6abe1-5fac-4419-a7ad-933d54ec1842" />
 <img width="1287" height="698" alt="Image" src="https://github.com/user-attachments/assets/71c3828a-cd97-46e7-b042-21e98fef53d0" />
